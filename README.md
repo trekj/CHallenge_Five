@@ -47,7 +47,7 @@ from MCForecastTools import MCSimulation
 
 ## Usage
 
-After cloning the repository, run the program by typing python risk_return_analysis.ipynb 
+After cloning the repository,  run the program by typing python financial_planning_tools.ipynb 
 
 ## Contributors
 #### James Tagapan
